@@ -8,4 +8,4 @@ define('DB_NAME', 'test');
 
 // Define URL
 define('ROOT_PATH', '/');
-define('ROOT_URL', 'http://localhost');
+define('ROOT_URL', 'http://localhost/');

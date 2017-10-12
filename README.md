@@ -1,1 +1,1 @@
-Simple banner list
+Simple banner list app
